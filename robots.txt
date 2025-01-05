@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tinyfishingatschool.github.io/sitemap.xml
